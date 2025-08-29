@@ -1,0 +1,4 @@
+prog start 0
+   +add #yy
+yy word 5
+end prog   
